@@ -1,0 +1,13 @@
+{
+  "name": "sng.up",
+  "version": "1.4.5",
+  "main": "",
+  "ignore": [
+    "source",
+    ".gitignore",
+    ".idea",
+    "bower.json",
+    "gulpfile.js",
+    "package.json"
+  ]
+}
